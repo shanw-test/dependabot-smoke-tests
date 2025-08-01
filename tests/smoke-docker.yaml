@@ -9,7 +9,7 @@ input:
               version-requirement: '>22.04'
         source:
             provider: github
-            repo: dependabot/smoke-tests
+            repo: shanw-test/dependabot-smoke-tests
             directory: /
             commit: 832e37c1a7a4ef89feb9dc7cfa06f62205191994
         credentials-metadata:
