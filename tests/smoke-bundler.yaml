@@ -3,7 +3,6 @@ input:
         package-manager: bundler
         allowed-updates:
             - dependency-name: rubocop
-            - dependency-name: netaddr
         experiments:
             record-ecosystem-versions: true
         ignore-conditions:
